@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercarse",
+        "uuid": 12480187,
+        "checksum": "ea6inu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
